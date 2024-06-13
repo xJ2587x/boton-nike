@@ -1,0 +1,19 @@
+.Separar {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.Boton {
+    background-color: black;
+    color:  white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 12px 28px;
+    border-radius: 20px;
+}
+
+.Boton:hover {
+    background-color:dimgray;
+}
